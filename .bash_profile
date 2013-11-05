@@ -14,4 +14,4 @@ fi
 if [ -d ~/bin ] ; then
     PATH=~/bin:"${PATH}"
 fi
-export MAIL=imap://usuario@mail.servidor.org/
+export MAIL=imap://damibo@mail.rodavi.org/

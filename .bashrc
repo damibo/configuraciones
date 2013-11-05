@@ -76,6 +76,6 @@ if [ -d ~/bin ] ; then
     PATH=~/bin:"${PATH}"
 fi
 PATH=/home/android/sdk/platform-tools:"${PATH}"
-PATH=/home/android/sdk/tools:"${PATH}"
-#export MAIL=imap://usuario@mail.servidor.org/
-
+#export MAIL=imap://damibo@mail.rodavi.org/
+export PATH=$PATH:/opt/android-ndk-r7/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin
+export PATH=$PATH:$HOME/bin

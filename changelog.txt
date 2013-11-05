@@ -1,1 +1,3 @@
 2013-11-05 19:55:17 +0100 - Cambio el nombre del repositorio de configuraciones a homedir. Renombro los ficheros para que sean los mismos que hay en el directorio home del usuario.
+
+2013-11-05 20:01:43 +0100 - Cambios en .bashrc y .bash_profile. Copiados de uno de mis directorios home.
